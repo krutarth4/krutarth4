@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T19:27:32.904Z" agent="5.0 (Macintosh)" etag="gWM2cOyJozDESCF5nmtR" version="20.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-19T19:28:05.986Z" agent="5.0 (Macintosh)" etag="jIoi8ZjyfVBRXk8qR0sN" version="20.7.4" type="github" pages="3">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
     <mxGraphModel dx="2388" dy="1402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -239,7 +239,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ex6XNHKZIbnVNy3UJA4f" name="Seite-3">
-    <mxGraphModel dx="1194" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1614" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -305,7 +305,7 @@
           <mxGeometry x="320" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a-BEeVQUS6EbCBHsCaEZ-6" value="Navigational information " style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="50" width="120" height="40" as="geometry" />
+          <mxGeometry x="860" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a-BEeVQUS6EbCBHsCaEZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontColor=default;" edge="1" parent="1" source="a-BEeVQUS6EbCBHsCaEZ-7" target="a-BEeVQUS6EbCBHsCaEZ-5">
           <mxGeometry relative="1" as="geometry" />
@@ -317,7 +317,7 @@
           <mxGeometry x="330" y="50" width="52" height="61" as="geometry" />
         </mxCell>
         <mxCell id="a-BEeVQUS6EbCBHsCaEZ-14" value="Swarm events" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="860" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a-BEeVQUS6EbCBHsCaEZ-17" value="optimized speed for user " style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;fontColor=default;" edge="1" parent="1" source="a-BEeVQUS6EbCBHsCaEZ-15">
           <mxGeometry relative="1" as="geometry">
