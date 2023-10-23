@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @krutarth4
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java projects
+- 👀 DevOps + multi cloud (AWS+google cloud)
 - 📫 How to reach me krutarthparwal@gmail.com
 
 <!---
